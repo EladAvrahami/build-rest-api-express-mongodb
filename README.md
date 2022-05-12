@@ -6,7 +6,7 @@ create REST API + middleware function and use it in delete put and get methods
 <!--https://www.youtube.com/watch?v=fgTGADljAeg  --> 
 
 
-
+<pre>
 exports.prods_ar = [
     {
        "id":"1",
@@ -67,3 +67,9 @@ exports.prods_ar = [
     
     
 ]
+
+<pre/>
+
+<!--link to great projet user menagment https://www.youtube.com/watch?v=W1Kttu53qTg -->
+
+
